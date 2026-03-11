@@ -64,7 +64,7 @@
 
 ## 🔗 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andre%20Wisley-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/](https://www.linkedin.com/in/andrewisley/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andre%20Wisley-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andrewisley/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Em%20Breve-black?style=for-the-badge&logo=vercel)](#)
 [![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail)](mailto:anuwi88@gmail.com)
 
